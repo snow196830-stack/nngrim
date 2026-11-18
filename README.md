@@ -27,7 +27,7 @@
 │   ├── brow-portrait.jpg 시그니처·원장 소개 사진
 │   ├── og-image.jpg      카카오톡·SNS 공유 썸네일 (1200×630)
 │   ├── gallery/          갤러리 8장
-│   ├── influencers/      인플루언서 카드 9명 (600×750)
+│   ├── influencers/      인플루언서 카드 16명 (600×750)
 │   ├── reels/            릴스 영상 3개 (mp4 + jpg 포스터)
 │   └── fonts/            Noto Serif/Sans KR 서브셋 woff2
 ├── robots.txt · sitemap.xml · .nojekyll
@@ -39,7 +39,7 @@
 ├── notes/source-data.md  실제 자료 출처와 확인 시점 (추측 금지 원칙 기록)
 ├── preview/              검증 스크린샷 (데스크톱·태블릿·모바일·관리자)
 ├── tools/
-│   ├── verify.py         Playwright 자동 검증 (54개 항목)
+│   ├── verify.py         Playwright 자동 검증
 │   ├── shot-sections.py  원장·FAQ·오시는 길 섹션 스크린샷
 │   ├── build-fonts.py    문구가 바뀌면 폰트 서브셋을 다시 만든다
 │   └── make-og-image.py  공유 썸네일 생성

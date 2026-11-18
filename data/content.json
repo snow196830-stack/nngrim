@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T05:05:00+09:00",
+  "updatedAt": "2026-11-19T06:20:00+09:00",
   "site": {
     "name": {
       "kr": "눈,그림",
@@ -227,6 +227,24 @@
     },
     "items": [
       {
+        "id": "inf-seonghee",
+        "handle": "_seong_hee",
+        "name": {
+          "kr": "위성희",
+          "jp": "ウィ・ソンヒ",
+          "en": "Wi Seonghee"
+        },
+        "followers": "69.7만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/_seong_hee.jpg",
+        "url": "https://www.instagram.com/_seong_hee/",
+        "visible": true
+      },
+      {
         "id": "inf-hyo",
         "handle": "hyo.ppeu",
         "name": {
@@ -263,6 +281,24 @@
         "visible": true
       },
       {
+        "id": "inf-chajina",
+        "handle": "chajinah_",
+        "name": {
+          "kr": "차진아",
+          "jp": "チャ・ジナ",
+          "en": "Cha Jina"
+        },
+        "followers": "33.1만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/chajinah_.jpg",
+        "url": "https://www.instagram.com/chajinah_/",
+        "visible": true
+      },
+      {
         "id": "inf-nagyeong",
         "handle": "174_nagyeong",
         "name": {
@@ -296,6 +332,78 @@
         },
         "image": "assets/influencers/ll_42k.jpg",
         "url": "https://www.instagram.com/ll_42k/",
+        "visible": true
+      },
+      {
+        "id": "inf-ayun",
+        "handle": "l22_ay",
+        "name": {
+          "kr": "이아윤",
+          "jp": "イ・アユン",
+          "en": "Lee Ayun"
+        },
+        "followers": "18.7만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/l22_ay.jpg",
+        "url": "https://www.instagram.com/l22_ay/",
+        "visible": true
+      },
+      {
+        "id": "inf-yerin",
+        "handle": "myelnday",
+        "name": {
+          "kr": "예린",
+          "jp": "イェリン",
+          "en": "Yerin"
+        },
+        "followers": "17.1만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/myelnday.jpg",
+        "url": "https://www.instagram.com/myelnday/",
+        "visible": true
+      },
+      {
+        "id": "inf-taku",
+        "handle": "1004jjang",
+        "name": {
+          "kr": "짱타쿠",
+          "jp": "チャンタク",
+          "en": "Jjangtaku"
+        },
+        "followers": "16.1만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/1004jjang.jpg",
+        "url": "https://www.instagram.com/1004jjang/",
+        "visible": true
+      },
+      {
+        "id": "inf-hanyu",
+        "handle": "ujjja_e",
+        "name": {
+          "kr": "모하뉴",
+          "jp": "モ・ハニュ",
+          "en": "Mo Hanyu"
+        },
+        "followers": "13.6만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/ujjja_e.jpg",
+        "url": "https://www.instagram.com/ujjja_e/",
         "visible": true
       },
       {
@@ -350,6 +458,24 @@
         },
         "image": "assets/influencers/_youvy.jpg",
         "url": "https://www.instagram.com/_youvy/",
+        "visible": true
+      },
+      {
+        "id": "inf-harin",
+        "handle": "soluvrin",
+        "name": {
+          "kr": "하린",
+          "jp": "ハリン",
+          "en": "Harin"
+        },
+        "followers": "6만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/soluvrin.jpg",
+        "url": "https://www.instagram.com/soluvrin/",
         "visible": true
       },
       {
