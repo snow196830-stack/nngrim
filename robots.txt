@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://snow196830-stack.github.io/nngrim/sitemap.xml

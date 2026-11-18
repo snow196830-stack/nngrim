@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>눈,그림 — 관리자</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<!-- ============ 연결 화면 ============ -->
+<section class="gate" id="gate" hidden>
+  <div class="gate__box">
+    <p class="gate__brand">눈,그림 <span>관리자</span></p>
+    <h1>홈페이지 내용을 고치려면<br>GitHub 연결이 필요합니다</h1>
+    <p class="gate__lead">한 번만 연결하면 이 브라우저에 기억됩니다. 토큰은 공개 페이지에 저장되지 않습니다.</p>
+    <form id="gateForm" autocomplete="off">
+      <label class="field">
+        <span class="field__label">GitHub 토큰 (fine-grained, Contents: Read and write)</span>
+        <input class="input" id="tokenInput" type="password" placeholder="github_pat_..." spellcheck="false">
+      </label>
+      <label class="check"><input type="checkbox" id="rememberToken" checked> 이 브라우저에 기억하기</label>
+      <label class="check"><input type="checkbox" id="usePin"> PIN으로 잠그기 (같은 기기에서 PIN 입력)</label>
+      <label class="field" id="pinField">
+        <span class="field__label">PIN (4자리 이상)</span>
+        <input class="input" id="pinInput" type="password" inputmode="numeric" disabled>
+      </label>
+      <p class="alert" id="gateAlert" hidden></p>
+      <div class="gate__actions">
+        <button class="btn btn--primary" type="submit" id="gateSubmit">연결하기</button>
+        <button class="btn" type="button" id="gateSkip">토큰 없이 둘러보기</button>
+      </div>
+      <p class="gate__hint">토큰 만들기: GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens → 저장소 <b>snow196830-stack/nngrim</b> 선택 → Permissions: Contents = Read and write.</p>
+    </form>
+  </div>
+</section>
+
+<section class="gate" id="pinGate" hidden>
+  <div class="gate__box">
+    <p class="gate__brand">눈,그림 <span>관리자</span></p>
+    <h1>PIN을 입력해 주세요</h1>
+    <form id="pinForm">
+      <label class="field">
+        <span class="field__label">PIN</span>
+        <input class="input" id="pinUnlock" type="password" inputmode="numeric" autocomplete="off">
+      </label>
+      <p class="alert" id="pinAlert" hidden></p>
+      <div class="gate__actions">
+        <button class="btn btn--primary" type="submit">열기</button>
+        <button class="btn" type="button" id="pinReset">PIN 잊음 (토큰 다시 입력)</button>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- ============ 편집 화면 ============ -->
+<div class="app" id="editor" hidden>
+  <header class="top">
+    <div class="top__in">
+      <div class="top__brand">
+        <b>눈,그림</b><span>관리자</span>
+      </div>
+      <div class="top__conn">
+        <span class="dot" id="connDot"></span>
+        <span id="connText">연결 전</span>
+        <span class="top__repo" id="repoName"></span>
+      </div>
+      <div class="top__tools">
+        <div class="top__lang" role="group" aria-label="편집 언어">
+          <button type="button" data-editlang="kr" class="is-on">한국어</button>
+          <button type="button" data-editlang="jp">日本語</button>
+          <button type="button" data-editlang="en">English</button>
+        </div>
+        <a class="btn btn--sm" href="../" target="_blank" rel="noopener">홈페이지 열기</a>
+        <button class="btn btn--sm" type="button" id="lockBtn" hidden>연결 해제</button>
+      </div>
+    </div>
+    <p class="top__meta" id="metaInfo"></p>
+  </header>
+
+  <main class="main">
+    <div class="intro">
+      <h1>홈페이지 편집</h1>
+      <p>문구를 고치면 아래 <b>저장 및 홈페이지 반영</b>을 누르세요. 저장하면 GitHub에 커밋되고 30~60초 뒤 홈페이지에 반영됩니다.</p>
+      <p class="intro__lang">지금 편집 중인 언어: <b id="editLangName">한국어</b> — 위 버튼으로 언어를 바꾸면 그 언어의 문구를 고칠 수 있습니다. (한국어가 기본값이고, 비어 있으면 한국어가 표시됩니다.)</p>
+    </div>
+    <div id="sections"></div>
+    <section class="card" id="jsonCard">
+      <header class="card__head">
+        <h2>JSON 직접 편집</h2>
+        <p class="card__lead">고급 기능입니다. 형식이 틀리면 저장되지 않습니다. ‘검증’으로 먼저 확인하세요.</p>
+      </header>
+      <div class="json">
+        <button class="btn btn--sm" type="button" id="jsonLoad">현재 내용 불러오기</button>
+        <button class="btn btn--sm" type="button" id="jsonCheck">검증</button>
+        <span class="json__msg" id="jsonMsg"></span>
+        <textarea class="input input--mono" id="jsonArea" rows="18" spellcheck="false" placeholder="{ ... }"></textarea>
+        <button class="btn btn--sm" type="button" id="jsonApply">이 내용을 편집기에 적용</button>
+      </div>
+    </section>
+  </main>
+
+  <div class="savebar" id="savebar" hidden>
+    <div class="savebar__status" id="saveStatus">변경사항 없음</div>
+    <div class="savebar__tools">
+      <button class="btn btn--sm" type="button" id="downloadBtn">백업 내려받기</button>
+      <label class="btn btn--sm" for="uploadInput">백업 불러오기</label>
+      <input type="file" id="uploadInput" accept="application/json" hidden>
+      <button class="btn btn--sm" type="button" id="reloadBtn">새로고침</button>
+      <button class="btn btn--sm" type="button" id="revertBtn">되돌리기</button>
+      <button class="btn btn--primary" type="button" id="saveBtn">저장 및 홈페이지 반영</button>
+    </div>
+  </div>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>

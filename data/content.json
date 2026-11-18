@@ -1,0 +1,1060 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-19T05:05:00+09:00",
+  "site": {
+    "name": {
+      "kr": "눈,그림",
+      "jp": "ヌン・グリム",
+      "en": "NUNGRIM"
+    },
+    "nameEn": "NUNGRIM",
+    "tagline": {
+      "kr": "청담 수지눈썹 전문 · 원장 전여원",
+      "jp": "清潭 スジ眉毛専門 · 院長 チョン・ヨウォン",
+      "en": "Cheongdam suji brow atelier · Artist Jeon Yeowon"
+    }
+  },
+  "notice": {
+    "text": {
+      "kr": "일요일 휴무 · 11·12월 예약 접수 중 · 청담역 12번 출구 도보 3분",
+      "jp": "日曜定休 · 11・12月 ご予約受付中 · 清潭駅12番出口から徒歩3分",
+      "en": "Closed Sundays · Booking for Nov–Dec open · 3 min from Cheongdam Stn. Exit 12"
+    }
+  },
+  "sections": {
+    "influencers": true,
+    "gallery": true,
+    "reels": true,
+    "faq": true
+  },
+  "hero": {
+    "eyebrow": "CHEONGDAM · SUJI BROW ATELIER",
+    "title": {
+      "kr": "눈썹 하나로,<br>얼굴의 그림이 바뀝니다",
+      "jp": "眉ひとつで、<br>顔の絵が変わります",
+      "en": "One brow changes<br>the whole picture"
+    },
+    "lead": {
+      "kr": "청담 눈,그림은 손으로 점을 하나하나 찍어 결을 채우는 수지기법으로 눈썹을 그립니다. 자로 잰 대칭이 아니라, 눈매와 얼굴형에 맞는 조화로운 선을 찾습니다. 상담부터 1차 시술, 리터치까지 원장 전여원이 직접 맡습니다.",
+      "jp": "清潭「ヌン・グリム」は、手で一点ずつ点を置いて眉を描くスジ(手彫り)技法の専門店です。定規で測ったような左右対称ではなく、目元と顔の骨格に調和する線を探します。カウンセリングから施術、リタッチまで院長が一貫して担当します。",
+      "en": "At NUNGRIM in Cheongdam, brows are drawn dot by dot by hand in the suji technique. Not a ruler-straight symmetry, but a line that sits in harmony with your eyes and face shape. The artist, Jeon Yeowon, stays with you from consultation through the first session and the touch-up."
+    },
+    "note": {
+      "kr": "예약과 상담은 카카오톡 채널이 가장 빠릅니다.",
+      "jp": "ご予約・ご相談はLINEが最も早いです。",
+      "en": "LINE is the quickest way to book or ask a question."
+    },
+    "badgeNum": {
+      "kr": "9.2만",
+      "jp": "9.2万",
+      "en": "92K"
+    },
+    "badgeTxt": {
+      "kr": "인스타그램 팔로워<br>@nn.grim",
+      "jp": "Instagramフォロワー<br>@nn.grim",
+      "en": "Instagram followers<br>@nn.grim"
+    },
+    "image": "assets/hero.jpg",
+    "imageAlt": {
+      "kr": "눈그림에서 수지 눈썹 시술을 마친 고객",
+      "jp": "ヌン・グリムでスジ眉毛の施術を受けたお客様",
+      "en": "A client after a suji brow treatment at NUNGRIM"
+    }
+  },
+  "stats": [
+    {
+      "num": {
+        "kr": "9.2만",
+        "jp": "9.2万",
+        "en": "92K"
+      },
+      "label": {
+        "kr": "인스타그램 팔로워<small>@nn.grim</small>",
+        "jp": "Instagramフォロワー<small>@nn.grim</small>",
+        "en": "Instagram followers<small>@nn.grim</small>"
+      }
+    },
+    {
+      "num": "7,223",
+      "label": {
+        "kr": "카카오톡 채널 친구",
+        "jp": "KakaoTalkチャンネル友だち",
+        "en": "KakaoTalk channel friends"
+      }
+    },
+    {
+      "num": "4.22",
+      "label": {
+        "kr": "네이버 플레이스 리뷰<small>15개</small>",
+        "jp": "NAVERプレイス レビュー<small>15件</small>",
+        "en": "NAVER Place reviews<small>15</small>"
+      }
+    },
+    {
+      "num": {
+        "kr": "6개월~1~2년",
+        "jp": "6か月〜1〜2年",
+        "en": "6 months–2 years"
+      },
+      "label": {
+        "kr": "수지 눈썹 유지 기간<small>개인차 있음</small>",
+        "jp": "スジ眉毛の持続期間<small>個人差あり</small>",
+        "en": "How long suji brows last<small>varies by skin</small>"
+      }
+    }
+  ],
+  "statsFoot": {
+    "kr": "2026년 11월 19일 기준, 눈,그림 인스타그램·카카오톡 채널·네이버 플레이스에 표시된 값입니다.",
+    "jp": "2026年11月19日時点、ヌン・グリムのInstagram・KakaoTalkチャンネル・NAVERプレイスに表示されている値です。",
+    "en": "Figures shown on NUNGRIM's Instagram, KakaoTalk channel and NAVER Place as of 19 November 2026."
+  },
+  "menu": {
+    "eyebrow": "SIGNATURE",
+    "title": {
+      "kr": "눈그림이 그리는 눈썹",
+      "jp": "ヌン・グリムの眉づくり",
+      "en": "What we draw"
+    },
+    "lead": {
+      "kr": "눈썹 한 쌍을 그리는 일은 얼굴 전체의 인상을 정하는 일입니다. 지금 눈썹의 결과 잔혼 상태를 먼저 보고, 그 사람에게 맞는 방향을 정합니다.",
+      "jp": "一本の眉を描くことは、顔全体の印象を決めることです。今の眉の状態と残り痕を確認し、その方に合う方向を決めます。",
+      "en": "Drawing a pair of brows decides the impression of the whole face. We look at the current state of your brows first, then choose the direction that suits you."
+    },
+    "items": [
+      {
+        "id": "suji",
+        "no": "01",
+        "en": "Suji Brow",
+        "name": {
+          "kr": "수지 눈썹",
+          "jp": "スジ眉毛",
+          "en": "Suji brows"
+        },
+        "desc": {
+          "kr": "손으로 점을 하나하나 찍어 면을 채우는 수지기법입니다. 표피층에만 색을 넣기 때문에 피가 나지 않고, 각질이 지저분하게 벗겨지지 않은 채 자연스럽게 옅어집니다. 눈썹 숱과 결, 얼굴형을 보고 선을 정합니다.",
+          "jp": "手で一点ずつ点を置き、面を埋めていくスジ技法です。表皮層にだけ色を入れるため出血がなく、角質が汚く剥がれることなく自然に薄くなっていきます。眉の量と流れ、顔の形を見て線を決めます。",
+          "en": "A hand-drawn technique: dots placed one by one until the shape is filled. Colour goes into the epidermis only, so there is no bleeding, no messy flaking, and the brow fades away naturally. The line is drawn from your brow density, hair direction and face shape."
+        },
+        "meta": {
+          "kr": "1차 시술 + 리터치 · 유지 6개월~1~2년 (개인차)",
+          "jp": "施術＋リタッチ · 持続6か月〜1〜2年（個人差）",
+          "en": "First session + touch-up · lasts 6 months to 1–2 years (varies)"
+        }
+      },
+      {
+        "id": "cover",
+        "no": "02",
+        "en": "Correction",
+        "name": {
+          "kr": "눈썹 교정 · 잔혼 커버",
+          "jp": "眉の修正・残り痕カバー",
+          "en": "Correction & cover"
+        },
+        "desc": {
+          "kr": "이전 시술의 붉은 기운이나 번진 결 위에 덮어 그립니다. 지우개처럼 지우는 시술이 아니기 때문에 잔혼이 있으면 디자인과 색감에 제약이 있습니다. 푸른·회빛 잔혼은 색이 잘 바뀌지 않아 레이저 제거를 먼저 권합니다.",
+          "jp": "以前の施術による赤みやにじんだ線の上から重ねて描きます。消しゴムのように消す施術ではないため、残り痕があるとデザインと色に制限があります。青み・グレーの残り痕は色が変わりにくいため、先にレーザー除去をおすすめします。",
+          "en": "Drawn over the pink or blurred lines left by earlier work. It is not an eraser, so old pigment limits the design and the colour we can use. Blue or grey residue does not change colour well, so laser removal comes first."
+        },
+        "meta": {
+          "kr": "상담 후 진행 여부 결정 · 무리한 커버는 당일 시술 불가",
+          "jp": "カウンセリング後に可否を判断 · 無理なカバーは当日施術不可",
+          "en": "Decided after consultation · heavy cover may be declined"
+        }
+      },
+      {
+        "id": "retouch",
+        "no": "03",
+        "en": "Retouch",
+        "name": {
+          "kr": "리터치 · 사후관리",
+          "jp": "リタッチ・アフターケア",
+          "en": "Touch-up & aftercare"
+        },
+        "desc": {
+          "kr": "1차 시술 후 2주에서 6주 사이가 서비스 리터치 기간입니다. 그 이후의 리터치는 추가 비용이 발생합니다. 리터치는 선택 사항이며, 받지 않는다고 시술 비용이 할인되거나 환불되지는 않습니다.",
+          "jp": "1回目の施術から2〜6週間がサービスリタッチ期間です。それ以降のリタッチは追加費用が発生します。リタッチは任意で、受けなくても施術費用の割引や返金はありません。",
+          "en": "The service touch-up window is between two and six weeks after the first session. After that, touch-ups carry an extra charge. A touch-up is optional; skipping it does not discount or refund the treatment."
+        },
+        "meta": {
+          "kr": "서비스 리터치 2~6주 · 이후 추가 비용",
+          "jp": "サービスリタッチ2〜6週 · 以降は追加費用",
+          "en": "Service touch-up at 2–6 weeks · extra charge after"
+        }
+      },
+      {
+        "id": "design",
+        "no": "04",
+        "en": "Design",
+        "name": {
+          "kr": "디자인 상담",
+          "jp": "デザインカウンセリング",
+          "en": "Design consultation"
+        },
+        "desc": {
+          "kr": "화장을 하지 않기 위한 반영구가 아니라, 화장을 빨리 끝내기 위한 눈썹입니다. 눈매에 맞춰 디자인하고 자로 잰 대칭보다 조화로운 인상을 봅니다. 칼대칭에 예민하신 분께는 이 샵의 시술을 권하지 않습니다.",
+          "jp": "すっぴんのためのアートメイクではなく、メイクを早く終えるための眉です。目元に合わせてデザインし、定規のような左右対称よりも調和した印象を大切にします。完全な左右対称にこだわる方には、当店の施術はおすすめしていません。",
+          "en": "Not a brow to replace makeup, but one that shortens your morning. Designed to your eyes, valuing a harmonious impression over millimetre symmetry. If exact left–right symmetry matters most to you, this may not be the right studio."
+        },
+        "meta": {
+          "kr": "예약제 · 1:1 상담",
+          "jp": "完全予約制 · 1対1カウンセリング",
+          "en": "By appointment · one to one"
+        }
+      }
+    ],
+    "footnote": {
+      "kr": "시술 항목과 가격은 눈썹 상태와 디자인 범위에 따라 달라집니다. 정확한 금액은 상담에서 안내드립니다.",
+      "jp": "メニューと料金は眉の状態・デザインの範囲によって変わります。正確な金額はカウンセリングでご案内します。",
+      "en": "Menu and price depend on the state of your brows and the scope of the design. The exact amount is confirmed at consultation."
+    }
+  },
+  "influencers": {
+    "eyebrow": "INFLUENCER PICK",
+    "title": {
+      "kr": "눈그림을 찾아준<br>인플루언서들",
+      "jp": "ヌン・グリムに通う<br>インフルエンサー",
+      "en": "The influencers<br>who came to us"
+    },
+    "lead": {
+      "kr": "청담의 눈썹문신 샵으로 인플루언서들이 가장 많이 찾는 곳. 눈,그림 인스타그램에 리포스트된 인플루언서 스토리에서 사진을 가져왔습니다. 사진을 누르면 그 사람의 인스타그램으로 이동합니다.",
+      "jp": "清潭でインフルエンサーが最も多く通う眉のサロン。ヌン・グリムのInstagramにリポストされたストーリーから写真を掲載しています。写真をタップすると、その方のInstagramが開きます。",
+      "en": "The Cheongdam brow studio influencers visit most. Photos come from the influencer stories reposted on NUNGRIM's Instagram. Tap a photo to open that person's Instagram."
+    },
+    "note": {
+      "kr": "아래 계정은 눈,그림이 리포스트한 스토리에서 확인된 실제 계정입니다. 새 인플루언서는 관리자 페이지(/admin/)에서 사진과 아이디를 넣어 추가할 수 있습니다.",
+      "jp": "下記はヌン・グリムがリポストしたストーリーで確認できた実際のアカウントです。新しいインフルエンサーは管理画面(/admin/)から写真とIDを追加できます。",
+      "en": "Each account below is real, taken from stories NUNGRIM reposted. New influencers can be added from the admin page (/admin/) with a photo and handle."
+    },
+    "items": [
+      {
+        "id": "inf-hyo",
+        "handle": "hyo.ppeu",
+        "name": {
+          "kr": "김효진",
+          "jp": "キム・ヒョジン",
+          "en": "Kim Hyojin"
+        },
+        "followers": "44만",
+        "tag": {
+          "kr": "수지 눈썹",
+          "jp": "スジ眉毛",
+          "en": "Suji brows"
+        },
+        "image": "assets/influencers/hyo.ppeu.jpg",
+        "url": "https://www.instagram.com/hyo.ppeu/",
+        "visible": true
+      },
+      {
+        "id": "inf-yeonwoo",
+        "handle": "yeonlechexe",
+        "name": {
+          "kr": "연우",
+          "jp": "ヨヌ",
+          "en": "Yeonwoo"
+        },
+        "followers": "39.3만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/yeonlechexe.jpg",
+        "url": "https://www.instagram.com/yeonlechexe/",
+        "visible": true
+      },
+      {
+        "id": "inf-nagyeong",
+        "handle": "174_nagyeong",
+        "name": {
+          "kr": "나경",
+          "jp": "ナギョン",
+          "en": "Nagyeong"
+        },
+        "followers": "33.1만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/174_nagyeong.jpg",
+        "url": "https://www.instagram.com/174_nagyeong/",
+        "visible": true
+      },
+      {
+        "id": "inf-hyun",
+        "handle": "ll_42k",
+        "name": {
+          "kr": "Hyun",
+          "jp": "ヒョン",
+          "en": "Hyun"
+        },
+        "followers": "20.6만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/ll_42k.jpg",
+        "url": "https://www.instagram.com/ll_42k/",
+        "visible": true
+      },
+      {
+        "id": "inf-dahye",
+        "handle": "daroosesang",
+        "name": {
+          "kr": "김다혜",
+          "jp": "キム・ダヘ",
+          "en": "Kim Dahye"
+        },
+        "followers": "10.5만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/daroosesang.jpg",
+        "url": "https://www.instagram.com/daroosesang/",
+        "visible": true
+      },
+      {
+        "id": "inf-suryeon",
+        "handle": "xlixdeau",
+        "name": {
+          "kr": "수련",
+          "jp": "スリョン",
+          "en": "Suryeon"
+        },
+        "followers": "8.6만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/xlixdeau.jpg",
+        "url": "https://www.instagram.com/xlixdeau/",
+        "visible": true
+      },
+      {
+        "id": "inf-yubin",
+        "handle": "_youvy",
+        "name": {
+          "kr": "Yubin",
+          "jp": "ユビン",
+          "en": "Yubin"
+        },
+        "followers": "6.9만",
+        "tag": {
+          "kr": "",
+          "jp": "",
+          "en": ""
+        },
+        "image": "assets/influencers/_youvy.jpg",
+        "url": "https://www.instagram.com/_youvy/",
+        "visible": true
+      },
+      {
+        "id": "inf-jinyoung",
+        "handle": "zangzi.n0",
+        "name": {
+          "kr": "장진영",
+          "jp": "チャン・ジニョン",
+          "en": "Jang Jinyoung"
+        },
+        "followers": "2.5만",
+        "tag": {
+          "kr": "눈썹 리뷰",
+          "jp": "眉レビュー",
+          "en": "Brow review"
+        },
+        "image": "assets/influencers/zangzi.n0.jpg",
+        "url": "https://www.instagram.com/zangzi.n0/",
+        "visible": true
+      },
+      {
+        "id": "inf-ajeong",
+        "handle": "_fairyofrinse",
+        "name": {
+          "kr": "조아정",
+          "jp": "チョ・アジョン",
+          "en": "Jo Ajeong"
+        },
+        "followers": "1.7만",
+        "tag": {
+          "kr": "눈썹 후기",
+          "jp": "眉レビュー",
+          "en": "Brow review"
+        },
+        "image": "assets/influencers/_fairyofrinse.jpg",
+        "url": "https://www.instagram.com/_fairyofrinse/",
+        "visible": true
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "GALLERY",
+    "title": {
+      "kr": "눈썹, 그 자리",
+      "jp": "眉、その場所",
+      "en": "Brows, as drawn"
+    },
+    "lead": {
+      "kr": "눈,그림 인스타그램에 올린 시술 기록입니다. 사진을 누르면 원본 게시물이 열립니다. 결과와 유지 기간은 개인차가 있습니다.",
+      "jp": "ヌン・グリムのInstagramに掲載した施術記録です。写真をタップすると元の投稿が開きます。仕上がりと持続期間には個人差があります。",
+      "en": "Treatments from our Instagram. Tap a photo to open the original post. Results and how long they last vary from person to person."
+    },
+    "items": [
+      {
+        "id": "g1",
+        "image": "assets/gallery/g1_hyo.jpg",
+        "cap": {
+          "kr": "효진님 · 수지 눈썹",
+          "jp": "ヒョジン様 · スジ眉毛",
+          "en": "Hyojin · suji brows"
+        },
+        "alt": {
+          "kr": "수지 눈썹 시술 전후",
+          "jp": "スジ眉毛のビフォーアフター",
+          "en": "Suji brows before and after"
+        },
+        "url": "https://www.instagram.com/nn.grim/p/DUR1tm5gUO3/"
+      },
+      {
+        "id": "g2",
+        "image": "assets/gallery/g2_photo.jpg",
+        "cap": {
+          "kr": "시술 후, 셀프 카메라",
+          "jp": "施術後、セルフィー",
+          "en": "After the treatment"
+        },
+        "alt": {
+          "kr": "수지 눈썹 시술 후 셀카",
+          "jp": "スジ眉毛の施術後のセルフィー",
+          "en": "A selfie after a suji brow session"
+        },
+        "url": "https://www.instagram.com/nn.grim/p/Da2IcTjgfEa/"
+      },
+      {
+        "id": "g3",
+        "image": "assets/gallery/g3_mask.jpg",
+        "cap": {
+          "kr": "마스크 위로 보이는 눈썹",
+          "jp": "マスクの上に見える眉",
+          "en": "The brow above the mask"
+        },
+        "alt": {
+          "kr": "마스크를 쓴 채 촬영한 눈썹",
+          "jp": "マスクを着けたまま撮影した眉",
+          "en": "Brows photographed wearing a mask"
+        },
+        "url": "https://www.instagram.com/nn.grim/p/DaCW4RPhwmm/"
+      },
+      {
+        "id": "g4",
+        "image": "assets/gallery/g4_shop.jpg",
+        "cap": {
+          "kr": "인플루언서들이 찍는 청담의 샵",
+          "jp": "インフルエンサーが撮る清潭のサロン",
+          "en": "The Cheongdam studio influencers shoot"
+        },
+        "alt": {
+          "kr": "청담 눈썹문신 샵에서 촬영한 고객",
+          "jp": "清潭の眉サロンで撮影したお客様",
+          "en": "A client photographed at the Cheongdam studio"
+        },
+        "url": "https://www.instagram.com/nn.grim/p/C_MroDevoWr/"
+      },
+      {
+        "id": "g5",
+        "image": "assets/gallery/g5_best.jpg",
+        "cap": {
+          "kr": "고객님이 많이 가져온 눈썹 TOP7",
+          "jp": "お客様がよく持ってくる眉 TOP7",
+          "en": "The seven brows clients ask for"
+        },
+        "alt": {
+          "kr": "고객 선호 눈썹 사진 모음",
+          "jp": "人気の眉写真まとめ",
+          "en": "A collection of favourite brow photos"
+        },
+        "url": "https://www.instagram.com/nn.grim/p/DFzwI53RYDx/"
+      },
+      {
+        "id": "g6",
+        "image": "assets/gallery/g7_zangzi.jpg",
+        "cap": {
+          "kr": "장진영 · 눈썹 리뷰",
+          "jp": "チャン・ジニョン · 眉レビュー",
+          "en": "Jang Jinyoung · brow review"
+        },
+        "alt": {
+          "kr": "장진영 인플루언서 눈썹 리뷰",
+          "jp": "インフルエンサーの眉レビュー",
+          "en": "An influencer's brow review"
+        },
+        "url": "https://www.instagram.com/zangzi.n0/reel/DU-9zBIE0JU/"
+      },
+      {
+        "id": "g7",
+        "image": "assets/gallery/g8_reel.jpg",
+        "cap": {
+          "kr": "수지 눈썹 기법 · 고객 후기",
+          "jp": "スジ眉毛 · お客様レビュー",
+          "en": "Suji brow · client review"
+        },
+        "alt": {
+          "kr": "수지 눈썹 고객 후기 영상",
+          "jp": "スジ眉毛のお客様レビュー",
+          "en": "A client film about suji brows"
+        },
+        "url": "https://www.instagram.com/nn.grim/reel/DYcgPBuB2KI/"
+      },
+      {
+        "id": "g8",
+        "image": "assets/gallery/g9_yoomi.jpg",
+        "cap": {
+          "kr": "유미 · 내돈내산 후기",
+          "jp": "ユミ · 自腹レビュー",
+          "en": "Yumi · a paid visit, reviewed"
+        },
+        "alt": {
+          "kr": "고객이 직접 올린 눈썹 후기",
+          "jp": "お客様が投稿した眉レビュー",
+          "en": "A review a client posted herself"
+        },
+        "url": "https://www.instagram.com/yoomi_mylove/reel/DegzWuzB_89/"
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "REELS",
+    "title": {
+      "kr": "움직이는 눈썹",
+      "jp": "動く眉",
+      "en": "Brows in motion"
+    },
+    "lead": {
+      "kr": "눈,그림 인스타그램의 릴스입니다. 카드를 누르면 원본 영상이 열립니다.",
+      "jp": "ヌン・グリムのInstagramリールです。カードをタップすると元の動画が開きます。",
+      "en": "Reels from our Instagram. Tap a card to open the original."
+    },
+    "reels": [
+      {
+        "id": "reel-review",
+        "url": "https://www.instagram.com/nn.grim/reel/DYcgPBuB2KI/",
+        "video": "assets/reels/DYcgPBuB2KI.mp4",
+        "poster": "assets/reels/DYcgPBuB2KI.jpg",
+        "title": {
+          "kr": "수지 눈썹, 고객 review",
+          "jp": "スジ眉毛、お客様レビュー",
+          "en": "Suji brows, in a client's words"
+        },
+        "desc": {
+          "kr": "시술 후 눈썹을 확인하는 고객의 표정.",
+          "jp": "施術後、眉を確認するお客様の表情。",
+          "en": "The face of a client checking her brows."
+        }
+      },
+      {
+        "id": "reel-process",
+        "url": "https://www.instagram.com/nn.grim/reel/DUGB0rVgdx-/",
+        "video": "assets/reels/DUGB0rVgdx-.mp4",
+        "poster": "assets/reels/DUGB0rVgdx-.jpg",
+        "title": {
+          "kr": "시술실에서의 두 시간",
+          "jp": "施術室での二時間",
+          "en": "Two hours in the room"
+        },
+        "desc": {
+          "kr": "상담, 디자인, 시술까지의 과정을 담았습니다.",
+          "jp": "カウンセリング、デザイン、施術までの流れ。",
+          "en": "From consultation to design and the treatment itself."
+        }
+      },
+      {
+        "id": "reel-influencer",
+        "url": "https://www.instagram.com/zangzi.n0/reel/DU-9zBIE0JU/",
+        "video": "assets/reels/zangzi.mp4",
+        "poster": "assets/reels/zangzi.jpg",
+        "title": {
+          "kr": "인플루언서가 남긴 눈썹 후기",
+          "jp": "インフルエンサーが残した眉レビュー",
+          "en": "An influencer's own brow review"
+        },
+        "desc": {
+          "kr": "장진영 님이 직접 찍어 올린 눈썹 후기입니다.",
+          "jp": "チャン・ジニョンさんご本人が撮影した眉レビューです。",
+          "en": "Filmed and posted by Jang Jinyoung herself."
+        }
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "THE ARTIST",
+    "title": {
+      "kr": "원장 전여원이<br>직접 그립니다",
+      "jp": "院長チョン・ヨウォンが<br>直接描きます",
+      "en": "Drawn by<br>Jeon Yeowon"
+    },
+    "lead": {
+      "kr": "눈,그림 원장 전여원. 수지기법을 중심으로 눈썹을 그립니다. 상담에서 눈썹의 결와 얼굴형을 보고 선을 정하고, 그 자리에서 시술합니다. 리터치 시기와 주의사항까지 같은 원장이 안내합니다.",
+      "jp": "ヌン・グリム院長チョン・ヨウォン。スジ技法を中心に眉を描きます。カウンセリングで眉の流れと顔の形を見て線を決め、その場で施術します。リタッチの時期や注意事項まで、同じ院長がご案内します。",
+      "en": "Jeon Yeowon draws brows mainly in the suji technique. At consultation she reads the direction of your brow hair and your face shape, decides the line, and treats you in the same sitting. She also guides you through the touch-up window and aftercare."
+    },
+    "image": "assets/brow-portrait.jpg",
+    "imageAlt": {
+      "kr": "눈그림 수지 눈썹 시술 결과",
+      "jp": "ヌン・グリムのスジ眉毛施術",
+      "en": "A suji brow result at NUNGRIM"
+    },
+    "caption": {
+      "kr": "수지 눈썹 · 눈,그림",
+      "jp": "スジ眉毛 · ヌン・グリム",
+      "en": "Suji brows · NUNGRIM"
+    },
+    "quote": {
+      "kr": "「화장을 빨리 끝내기 위한 눈썹을 그립니다.」",
+      "jp": "「メイクを早く終えるための眉を描きます。」",
+      "en": "\"A brow that shortens your morning, not one that replaces makeup.\""
+    },
+    "quoteSrc": {
+      "kr": "눈,그림 카카오톡 채널 ‘예약 전 숙지사항’ 중",
+      "jp": "ヌン・グリム KakaoTalkチャンネル「予約前の確認事項」より",
+      "en": "From the studio's own pre-booking notes"
+    },
+    "pillars": [
+      {
+        "title": {
+          "kr": "수지기법",
+          "jp": "スジ技法",
+          "en": "The suji technique"
+        },
+        "desc": {
+          "kr": "손으로 점을 찍어 면을 채웁니다. 표피층까지만 색이 들어가 피가 나지 않고, 각질이 지저분하게 벗겨지지 않습니다.",
+          "jp": "手で点を置いて面を埋めます。表皮層までしか色が入らないため出血がなく、角質も汚く剥がれません。",
+          "en": "Dots placed by hand until the shape is filled. Colour stays in the epidermis, so there is no bleeding and no messy flaking."
+        }
+      },
+      {
+        "title": {
+          "kr": "조화로운 디자인",
+          "jp": "調和のデザイン",
+          "en": "Harmony, not symmetry"
+        },
+        "desc": {
+          "kr": "자로 잰 칼대칭이 아니라, 눈매와 얼굴형에 맞춰 조화로워 보이는 선을 찾습니다.",
+          "jp": "定規で測った左右対称ではなく、目元と顔の形に合わせて調和する線を探します。",
+          "en": "Not a measured symmetry, but a line that reads as harmonious with your eyes and face."
+        }
+      },
+      {
+        "title": {
+          "kr": "자연스러운 소실",
+          "jp": "自然な消失",
+          "en": "A natural fade"
+        },
+        "desc": {
+          "kr": "최소 6개월에서 1~2년 유지한 뒤 서서히 옅어집니다. 다음 작업에 방해되지 않는 반영구를 목적으로 합니다.",
+          "jp": "最低6か月から1〜2年持続したあと、徐々に薄くなります。次の施術の妨げにならないアートメイクを目指しています。",
+          "en": "Six months to two years, then a gradual fade — pigment that does not get in the way of the next treatment."
+        }
+      },
+      {
+        "title": {
+          "kr": "원장 1:1",
+          "jp": "院長1対1",
+          "en": "One artist, throughout"
+        },
+        "desc": {
+          "kr": "상담, 디자인, 시술, 리터치까지 원장 전여원이 직접 담당합니다.",
+          "jp": "カウンセリング、デザイン、施術、リタッチまで院長が直接担当します。",
+          "en": "Consultation, design, treatment and touch-up are all done by the same artist."
+        }
+      }
+    ],
+    "noLine": {
+      "kr": "가짜 눈썹 · 칼대칭 · 무쌍 — 세 가지는 하지 않습니다.",
+      "jp": "「なんちゃって眉」「定規のような左右対称」「奥二重の強調」はしません。",
+      "en": "No painted-on brows, no ruler symmetry, no forced crease."
+    }
+  },
+  "price": {
+    "eyebrow": "PRICE",
+    "title": {
+      "kr": "가격",
+      "jp": "料金",
+      "en": "Price"
+    },
+    "lead": {
+      "kr": "눈썹 상태와 디자인 범위에 따라 금액이 달라집니다. 아래 항목을 기준으로 상담에서 정확한 금액을 안내드립니다.",
+      "jp": "眉の状態とデザインの範囲によって金額が変わります。以下の項目を基準に、カウンセリングで正確な金額をご案内します。",
+      "en": "The amount depends on the state of your brows and the scope of the design. The items below are the basis; the exact figure is given at consultation."
+    },
+    "items": [
+      {
+        "name": {
+          "kr": "수지 눈썹 1차 시술",
+          "jp": "スジ眉毛 1回目",
+          "en": "Suji brows, first session"
+        },
+        "meta": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Confirmed at consultation"
+        }
+      },
+      {
+        "name": {
+          "kr": "서비스 리터치 (2~6주)",
+          "jp": "サービスリタッチ（2〜6週）",
+          "en": "Service touch-up (2–6 weeks)"
+        },
+        "meta": {
+          "kr": "1차 시술에 포함",
+          "jp": "1回目の施術に含む",
+          "en": "Included in the first session"
+        }
+      },
+      {
+        "name": {
+          "kr": "추가 리터치 (6주 이후)",
+          "jp": "追加リタッチ（6週以降）",
+          "en": "Extra touch-up (after 6 weeks)"
+        },
+        "meta": {
+          "kr": "추가 비용",
+          "jp": "追加費用",
+          "en": "Extra charge"
+        }
+      },
+      {
+        "name": {
+          "kr": "잔혼 커버 · 교정",
+          "jp": "残り痕カバー・修正",
+          "en": "Cover & correction"
+        },
+        "meta": {
+          "kr": "상태 확인 후 안내",
+          "jp": "状態を確認してご案内",
+          "en": "Quoted after seeing the brows"
+        }
+      }
+    ],
+    "note": {
+      "kr": "예약금은 ‘시간보험금’으로, 이유를 불문하고 환불되지 않습니다. 예약 변경은 일주일 전까지 1회 가능합니다.",
+      "jp": "予約金は「時間保険金」として、理由を問わず返金されません。予約変更は1週間前まで1回のみ可能です。",
+      "en": "The deposit is a time-retainer and is not refunded for any reason. The booking can be moved once, up to a week before."
+    },
+    "footnote": {
+      "kr": "정확한 금액과 시술 가능 여부는 카카오톡 채널 또는 방문 상담에서 확인해 주세요. 2026년 11월 19일 기준 안내입니다.",
+      "jp": "正確な金額と施術の可否は、KakaoTalkチャンネルまたはご来店時のカウンセリングでご確認ください。2026年11月19日時点のご案内です。",
+      "en": "Exact pricing and whether a treatment is possible are confirmed on the channel or in person. This reflects 19 November 2026."
+    }
+  },
+  "reserve": {
+    "eyebrow": "BOOKING",
+    "title": {
+      "kr": "예약",
+      "jp": "ご予約",
+      "en": "Booking"
+    },
+    "lead": {
+      "kr": "카카오톡 채널로 눈썹 사진과 원하는 느낌을 보내주시면 상담이 빠릅니다. 예약금 입금 후 일정이 확정됩니다.",
+      "jp": "KakaoTalkまたはLINEで眉の写真とご希望のイメージをお送りいただくと、スムーズです。予約金のお振込み後、日程が確定します。",
+      "en": "Send a photo of your brows and the look you want on KakaoTalk or LINE and the consultation goes faster. Your slot is confirmed once the deposit arrives."
+    },
+    "steps": [
+      {
+        "title": {
+          "kr": "채널로 상담",
+          "jp": "チャンネルで相談",
+          "en": "Message the channel"
+        },
+        "desc": {
+          "kr": "카카오톡 채널(해외는 LINE)로 지금 눈썹 사진과 원하는 느낌을 보냅니다.",
+          "jp": "KakaoTalk（海外はLINE）で、今の眉の写真とご希望のイメージをお送りください。",
+          "en": "On KakaoTalk, or LINE from abroad, send a photo of your brows and the look you have in mind."
+        }
+      },
+      {
+        "title": {
+          "kr": "가능 여부·금액 안내",
+          "jp": "可否・金額のご案内",
+          "en": "Feasibility and price"
+        },
+        "desc": {
+          "kr": "잔혼 상태와 디자인 범위를 보고 시술 가능 여부와 금액을 안내드립니다.",
+          "jp": "残り痕の状態とデザインの範囲を確認し、施術の可否と金額をご案内します。",
+          "en": "We look at old pigment and the scope of the design, then confirm whether it can be done and at what price."
+        }
+      },
+      {
+        "title": {
+          "kr": "예약금 입금 후 확정",
+          "jp": "予約金のお振込みで確定",
+          "en": "Deposit confirms it"
+        },
+        "desc": {
+          "kr": "예약금을 안내드리고, 입금이 확인되면 예약이 확정됩니다.",
+          "jp": "予約金をご案内し、ご入金の確認をもって予約が確定します。",
+          "en": "We send the deposit details; the booking is fixed when the transfer is confirmed."
+        }
+      }
+    ],
+    "note": {
+      "kr": "예약 시간보다 10분 이상 늦으면 시술이 어렵고 당일 노쇼로 처리되어 예약금은 환불되지 않습니다. 리터치 예약도 같습니다.",
+      "jp": "予約時間より10分以上遅れると施術ができず、当日キャンセル扱いとなり予約金は返金されません。リタッチのご予約も同じです。",
+      "en": "If you arrive more than ten minutes late the treatment cannot go ahead and it is treated as a no-show, with no refund of the deposit. The same applies to touch-up bookings."
+    }
+  },
+  "faq": {
+    "eyebrow": "BEFORE YOU BOOK",
+    "title": {
+      "kr": "예약 전에",
+      "jp": "ご予約の前に",
+      "en": "Before you book"
+    },
+    "lead": {
+      "kr": "눈,그림 카카오톡 채널에 올린 ‘예약 전 숙지사항’을 그대로 정리했습니다. 읽고 오시면 상담이 훨씬 빨라집니다.",
+      "jp": "ヌン・グリムのKakaoTalkチャンネルに掲載されている「予約前の確認事項」をまとめました。お読みいただくとカウンセリングがスムーズです。",
+      "en": "The studio's own pre-booking notes, gathered in one place. Reading them first makes the consultation much quicker."
+    },
+    "items": [
+      {
+        "q": {
+          "kr": "수지기법이 뭔가요?",
+          "jp": "スジ技法とは？",
+          "en": "What is the suji technique?"
+        },
+        "a": {
+          "kr": "손으로 하나하나 점을 찍어 점들로 면을 채우는 그라데이션 기법입니다. 피부의 표피층까지만 색소가 들어가 피가 나지 않고 피부 자극이 적습니다. 각질 탈각 과정이 지저분하지 않고 자연스럽게 옅어집니다.",
+          "jp": "手で一点ずつ点を置き、点で面を埋めていくグラデーション技法です。表皮層までしか色素が入らないため出血がなく、肌への刺激も少なめです。角質の剥がれも目立たず、自然に薄くなります。",
+          "en": "A gradient technique: dots placed by hand, one at a time, until they fill the shape. Pigment reaches only the epidermis, so there is no bleeding and little irritation, and the brow fades naturally without messy flaking."
+        }
+      },
+      {
+        "q": {
+          "kr": "얼마나 유지되나요?",
+          "jp": "どのくらい持ちますか？",
+          "en": "How long does it last?"
+        },
+        "a": {
+          "kr": "피부 두께, 환경과 습관에 따라 다르지만 최소 6개월에서 1~2년 유지된 뒤 서서히 옅어집니다. 다음 작업에 방해되지 않고 다시 예쁘게 받을 수 있는 것을 목표로 합니다.",
+          "jp": "肌の厚さや環境・習慣によって異なりますが、最低6か月から1〜2年持続したあと徐々に薄くなります。次の施術の妨げにならず、またきれいに入れられることを目指しています。",
+          "en": "It varies with skin thickness, environment and habits, but expect at least six months and up to one to two years before it fades. The aim is pigment that never blocks a later treatment."
+        }
+      },
+      {
+        "q": {
+          "kr": "잔혼이 있는데 가능할까요?",
+          "jp": "残り痕があっても大丈夫？",
+          "en": "Can you work over old pigment?"
+        },
+        "a": {
+          "kr": "지우개처럼 지우는 것이 아니라 잔혼 위에 커버 시술을 하기 때문에 디자인과 색감에 제약이 있습니다. 푸른·회빛 잔혼은 색이 잘 바뀌지 않아 레이저 제거를 먼저 권합니다. 무리하게 커버를 원하시면 당일 시술이 어려울 수 있습니다.",
+          "jp": "消しゴムのように消すのではなく、残り痕の上からカバーするため、デザインと色に制限があります。青み・グレーの残り痕は色が変わりにくいため、先にレーザー除去をおすすめします。無理なカバーをご希望の場合は当日施術できないことがあります。",
+          "en": "We cover old pigment rather than erase it, so the design and colour are limited. Blue or grey residue does not shift well, and laser removal is advised first. If you want a heavier cover than the skin allows, we may have to decline on the day."
+        }
+      },
+      {
+        "q": {
+          "kr": "리터치는 꼭 받아야 하나요?",
+          "jp": "リタッチは必須ですか？",
+          "en": "Is a touch-up required?"
+        },
+        "a": {
+          "kr": "선택 사항입니다. 1차 시술 후 2주에서 6주 사이가 서비스 리터치 기간이고, 그 이후에는 추가 비용이 발생합니다. 리터치를 받지 않아도 시술 비용이 할인되거나 환불되지는 않습니다.",
+          "jp": "任意です。1回目の施術から2〜6週間がサービスリタッチ期間で、それ以降は追加費用が発生します。リタッチを受けなくても施術費用の割引・返金はありません。",
+          "en": "It is optional. Two to six weeks after the first session is the service touch-up window; after that there is an extra charge. Skipping it does not reduce or refund the treatment price."
+        }
+      },
+      {
+        "q": {
+          "kr": "예약을 바꾸거나 취소하면요?",
+          "jp": "予約の変更・キャンセルは？",
+          "en": "Changing or cancelling a booking"
+        },
+        "a": {
+          "kr": "예약 변경은 일주일 전까지 한 번 가능합니다. 예약금은 시간보험금으로 이유를 불문하고 환불되지 않습니다. 10분 이상 늦으면 시술이 어렵고 당일 노쇼로 처리됩니다.",
+          "jp": "予約変更は1週間前まで1回可能です。予約金は時間保険金として、理由を問わず返金されません。10分以上遅れると施術ができず、当日キャンセル扱いとなります。",
+          "en": "A booking can be moved once, up to a week before. The deposit is a time-retainer and is not refunded for any reason. More than ten minutes late means no treatment, treated as a no-show."
+        }
+      },
+      {
+        "q": {
+          "kr": "시술이 어려운 경우가 있나요?",
+          "jp": "施術を受けられない場合は？",
+          "en": "When can't you treat someone?"
+        },
+        "a": {
+          "kr": "피부병(아토피, 켈로이드, 건선, 피부염 등)이 있거나 임신 중이거나, 간염 보균·당뇨가 있거나 병원 치료 중인 분은 전문의 상담 후 이상이 없다는 소견을 받고 예약해 주세요.",
+          "jp": "皮膚疾患（アトピー、ケロイド、乾癬、皮膚炎など）、妊娠中、肝炎の保菌、糖尿病、通院中のお薬がある方は、専門医の診察で問題がないとの所見を得てからご予約ください。",
+          "en": "With a skin condition (atopic dermatitis, keloids, psoriasis, dermatitis), during pregnancy, with hepatitis B or C, diabetes, or ongoing medical treatment, please see a doctor first and book once you have clearance."
+        }
+      },
+      {
+        "q": {
+          "kr": "사진 촬영은 하나요?",
+          "jp": "写真撮影はありますか？",
+          "en": "Do you photograph the work?"
+        },
+        "a": {
+          "kr": "시술 기록을 위해 전·후 사진을 촬영하며, 사진이 눈,그림 계정에 사용될 수 있습니다. 사용이 불편하시면 시술 당일 말씀해 주세요.",
+          "jp": "施術記録のためビフォー・アフターを撮影し、写真がヌン・グリムのアカウントに使用されることがあります。ご希望でない場合は施術当日にお申し出ください。",
+          "en": "Before and after photos are taken for your treatment record and may appear on the studio's account. Tell us on the day if you would rather they weren't."
+        }
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "VISIT",
+    "title": {
+      "kr": "오시는 길",
+      "jp": "アクセス",
+      "en": "Find us"
+    },
+    "address": "서울 강남구 학동로97길 26 2층 202호",
+    "addressNote": {
+      "kr": "청담역 12번 출구에서 약 217m · 도보 3분",
+      "jp": "清潭駅12番出口から約217m・徒歩3分",
+      "en": "About 217 m from Cheongdam Station exit 12, a 3-minute walk"
+    },
+    "hours": {
+      "kr": "일요일 휴무 · 예약제 운영",
+      "jp": "日曜定休・完全予約制",
+      "en": "Closed Sundays · by appointment"
+    },
+    "hoursNote": {
+      "kr": "정확한 운영 시간과 당일 예약 가능 여부는 카카오톡 채널로 확인해 주세요.",
+      "jp": "詳しい営業時間と当日予約の可否はKakaoTalkチャンネルでご確認ください。",
+      "en": "For exact hours and same-day availability, check the KakaoTalk channel."
+    },
+    "transit": {
+      "kr": "지하철 7호선 청담역 12번 출구 → 학동로97길 방면으로 직진 → 건물 2층 202호",
+      "jp": "地下鉄7号線 清潭駅12番出口 → ハクトンロ97ギル方面へ直進 → ビル2階202号",
+      "en": "Line 7 to Cheongdam, exit 12, walk towards Hakdong-ro 97-gil; the studio is on the 2nd floor, room 202."
+    },
+    "mapNote": {
+      "kr": "네이버 플레이스에서 위치와 리뷰를 확인할 수 있습니다.",
+      "jp": "NAVERプレイスで場所とレビューを確認できます。",
+      "en": "Location and reviews are on NAVER Place."
+    }
+  },
+  "channels": {
+    "kakao": "https://pf.kakao.com/_HEyixj/chat",
+    "kakaoHome": "https://pf.kakao.com/_HEyixj",
+    "line": "nn.grim",
+    "instagram": "https://www.instagram.com/nn.grim/",
+    "naver": "https://naver.me/5XpGfmaa",
+    "reserve": "https://pf.kakao.com/_HEyixj/chat"
+  },
+  "ui": {
+    "navWork": {
+      "kr": "눈썹",
+      "jp": "眉",
+      "en": "Brows"
+    },
+    "navInfluencer": {
+      "kr": "인플루언서",
+      "jp": "インフルエンサー",
+      "en": "Influencers"
+    },
+    "navGallery": {
+      "kr": "갤러리",
+      "jp": "ギャラリー",
+      "en": "Gallery"
+    },
+    "navArtist": {
+      "kr": "원장",
+      "jp": "院長",
+      "en": "Artist"
+    },
+    "navBooking": {
+      "kr": "예약",
+      "jp": "予約",
+      "en": "Booking"
+    },
+    "navVisit": {
+      "kr": "오시는 길",
+      "jp": "アクセス",
+      "en": "Visit"
+    },
+    "ctaKakao": {
+      "kr": "카카오톡으로 예약",
+      "jp": "KakaoTalkで予約",
+      "en": "Book on KakaoTalk"
+    },
+    "ctaLine": {
+      "kr": "LINE ID 복사",
+      "jp": "LINE IDをコピー",
+      "en": "Copy LINE ID"
+    },
+    "ctaInstagram": {
+      "kr": "인스타그램 보기",
+      "jp": "Instagramを見る",
+      "en": "View Instagram"
+    },
+    "ctaNaver": {
+      "kr": "네이버 플레이스",
+      "jp": "NAVERプレイス",
+      "en": "NAVER Place"
+    },
+    "ctaPrimaryKr": {
+      "kr": "카카오톡으로 예약하기",
+      "jp": "KakaoTalkで予約する",
+      "en": "Book on KakaoTalk"
+    },
+    "ctaPrimaryJp": {
+      "kr": "LINE ID 복사하기",
+      "jp": "LINE IDをコピー",
+      "en": "Copy our LINE ID"
+    },
+    "lineHint": {
+      "kr": "LINE 앱에서 아이디로 검색해 친구 추가해 주세요.",
+      "jp": "LINEアプリでIDを検索して友だち追加してください。",
+      "en": "Add us in LINE by searching this ID."
+    },
+    "moreInstagram": {
+      "kr": "인스타그램에서 더 보기",
+      "jp": "Instagramでもっと見る",
+      "en": "See more on Instagram"
+    },
+    "followers": {
+      "kr": "팔로워",
+      "jp": "フォロワー",
+      "en": "followers"
+    },
+    "seeAccount": {
+      "kr": "계정 보기",
+      "jp": "アカウントを見る",
+      "en": "View account"
+    },
+    "copyDone": {
+      "kr": "복사했습니다",
+      "jp": "コピーしました",
+      "en": "Copied"
+    },
+    "langName": {
+      "kr": "한국어",
+      "jp": "日本語",
+      "en": "English"
+    },
+    "copy": {
+      "kr": "복사",
+      "jp": "コピー",
+      "en": "Copy"
+    }
+  },
+  "footer": {
+    "desc": {
+      "kr": "눈,그림 · 청담 수지눈썹 전문",
+      "jp": "ヌン・グリム · 清潭 スジ眉毛専門",
+      "en": "NUNGRIM · Cheongdam suji brows"
+    },
+    "disclaimer": {
+      "kr": "게시한 사진은 눈,그림이 직접 시술하고 촬영한 것입니다. 인플루언서 사진은 각 계정의 공개 스토리를 눈,그림이 리포스트한 것입니다. 시술 결과와 유지 기간은 개인차가 있으며, 가격과 운영 시간은 변경될 수 있습니다.",
+      "jp": "掲載写真はヌン・グリムが施術・撮影したものです。インフルエンサー写真は各アカウントの公開ストーリーをヌン・グリムがリポストしたものです。仕上がりと持続期間には個人差があり、料金と営業時間は変更される場合があります。",
+      "en": "Photos are treatments done and photographed by the studio. Influencer photos are public stories the studio reposted. Results and duration vary by person; prices and hours may change."
+    },
+    "copyright": "© 2026 NUNGRIM. All rights reserved."
+  }
+}
